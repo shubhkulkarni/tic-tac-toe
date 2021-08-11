@@ -1,0 +1,18 @@
+.card_container {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+  display: grid;
+
+  place-items: center;
+  height: 8rem;
+  width: 8rem;
+  cursor: pointer;
+}
+
+/* .card_container:hover {
+  background: rgba(204, 232, 237, 0.5);
+} */
+
+.winner_class {
+  background: rgba(255, 192, 18, 0.8);
+}
